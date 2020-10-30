@@ -6,6 +6,7 @@ import MoviesHeader from "../src/components/headerMovieList";
 import MovieList from "../src/components/movieList";
 import MovieDetails from "../src/components/movieDetails";
 import MovieHeader from '../src/components/headerMovie'
+
 import "../node_modules/bootstrap/dist/css/bootstrap.css";
 
 const sample = {
