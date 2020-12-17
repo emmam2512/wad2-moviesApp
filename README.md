@@ -61,12 +61,14 @@ npm start
 
 .... Use screenshots to illustrate where data hyperlinking is present in your views - include captions.
 
-![][topratedcardLink](https://github.com/emmam2512/images/blob/main/Screenshot%20(299).png)
+![topratedcardLink](https://github.com/emmam2512/images/blob/main/Screenshot%20(299).png)
 > Clicking a card causes the display of that movie's details.
 
-![][creditsLink](https://github.com/emmam2512/images/blob/main/Screenshot%20(301).png)
+![creditsLink](https://github.com/emmam2512/images/blob/main/Screenshot%20(301).png)
 >Clicking the 'show credits' for a review extract will display cast, character name and star rating.
-![][similarMovieslink](https://github.com/emmam2512/images/blob/main/Screenshot%20(302).png) (https://github.com/emmam2512/images/blob/main/Screenshot%20(303).png)
+
+![similarMovieslink](https://github.com/emmam2512/images/blob/main/Screenshot%20(302).png) 
+![similarMovieslink](https://github.com/emmam2512/images/blob/main/Screenshot%20(303).png)
 > Clicking a similar movie card brings up the information on that movie and then new similar movies are displayed (two screenshots)
 
 ## Independent learning (If relevant).
