@@ -12,6 +12,7 @@ import MoviesContextProvider from "./contexts/moviesContext";
 import GenresContextProvider from "./contexts/genresContext";
 import AddMovieReviewPage from './pages/addMovieReviewPage'
 import TopRatedMoviesPage from './pages/topRatedMoviesPage'
+import movieCredits from "./components/movieCredits";
 
 
 
